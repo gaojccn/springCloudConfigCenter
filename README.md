@@ -1,2 +1,2 @@
 # springCloudConfigCenter
-my SpringCloudConfigCenter
+**我的配置中心文件**
